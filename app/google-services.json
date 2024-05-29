@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135273425767",
+    "project_id": "drive-backup-77abd",
+    "storage_bucket": "drive-backup-77abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135273425767:android:839d28f2df181822ed9dc2",
+        "android_client_info": {
+          "package_name": "com.rkshani.drivedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCp3jAPN6QjuUO21cypaoriue-KTJj184"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
